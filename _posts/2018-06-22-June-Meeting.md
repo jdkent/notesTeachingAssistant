@@ -116,12 +116,6 @@
 ## Meeting Notes
 
 
-
-
-
-
-
-
 [1]: https://www.chronicle.com/article/Teaching-What-You-Dont-Know/135180
 [2]: https://serc.carleton.edu/sp/library/interdisciplinary/index.html
 [3]: https://www.prodigygame.com/blog/interdisciplinary-teaching-activities-examples/
