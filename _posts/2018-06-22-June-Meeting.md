@@ -12,6 +12,7 @@
 4. [Co-Teaching: How to Make it Work][4]
 
 ## Reading Notes
+
 ### [Teaching What You Don't Know][1]
 #### Notes
 - **fundamental problem with experts teaching**: we take for granted fundamental knowledge or basic steps that the learner has not mastered.
