@@ -10,20 +10,13 @@
 ### [How Learning Works][1]
 
 #### Seven Principles
-1. Students' prior knowledge can help or hinder learning
-    - [Principle 1 Notes](#principle-one)
-2. How students organize knowledge influences how they learn and apply what they know
-    - [Principle 2 Notes](#principle-two)
-3. Students' motivation determines, directs, and sustains what they do to learn
-    - [Principle 3 Notes](#principle-three)
-4. To develop mastery, students must acquire component skills, practice integrating them, and know when to apply what they have learned
-    - [Principle 4 Notes](#principle-four)
-5. Goal-directed practice coupled with targeted feedback enhances the quality of students' learning
-    - [Principle 5 Notes](#principle-five)
-6. Students' current level of development interacts with the social, emotional, and intellectual climate of the course to impact learning
-    [Principle 6 Notes](#principle-six)
-7. To become self-directed learners, students must learn to monitor and adjust their approaches to learning
-    - [Principle 7 Notes](#principle-seven)
+1. [**Students' prior knowledge can help or hinder learning**](#principle-one)
+2. [**How students organize knowledge influences how they learn and apply what they know**](#principle-two)
+3. [**Students' motivation determines, directs, and sustains what they do to learn**](#principle-three)
+4. [**To develop mastery, students must acquire component skills, practice integrating them, and know when to apply what they have learned**](#principle-four)
+5. [**Goal-directed practice coupled with targeted feedback enhances the quality of students' learning**](#principle-five)
+6. [**Students' current level of development interacts with the social, emotional, and intellectual climate of the course to impact learning**](#principle-six)
+7. [**To become self-directed learners, students must learn to monitor and adjust their approaches to learning**](#principle-seven)
 
 #### <a name="principle-one">Students' prior knowledge can help or hinder learning
 - helps when prior knowledge is:
