@@ -1,4 +1,4 @@
-## Teaching Assisstant Notes
+## Teaching Assistant Notes
 
 <ul>
   {% for post in site.posts %}
