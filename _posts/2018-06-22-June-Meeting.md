@@ -20,6 +20,7 @@
     1. Novices have a more realistic assessment of the time it will take a learner to complete a task.
     2. Novices have a better idea on the number of steps another person will need to complete a task.
     3. Novices are more likely to relate difficult concepts to everyday, common knowledge
+
 #### Reflection
 - toward point 3, however, would a content novice be able to make a metaphor/analogy and know when it breaks down?
 - This article appears to motivate paired teaching for instructors that are experts in different aspects of the material (so they can test lectures and explanations on each other to make sure the course material works)
@@ -41,6 +42,7 @@
         - set out the structure of multiple disciplines that are well suited to the problem of interest
         - synthesize insights from multiple disciplines
         - integrate idead across disciplines
+
 #### Reflection
 - Interdisciplinary work may be baked into neuroscience. Coming up with the psychological terms and associated them with neurobiological interpretations/mechanisms is interdisciplinary
 
@@ -88,6 +90,7 @@
             - connections with different subjects
             - effectiveness of organizing center
             - relevancy and applicability of essential questions
+
 #### Reflection
 - A lot of emphasis on student driven activities (and giving them time to work on projects) and giving time for reflection.
 
@@ -109,11 +112,30 @@
     5. Don't take yourself too seriously
     6. Communicate, Communicate, Communicate (like via slack)
     7. Seek Administrative Support
+
 #### Reflection
 - Partner teachers seem like a good test audience for lessons (perhaps they are more novice and can provide that perspective)
 - I wonder if the splitting the class up into disciplines, have each teacher explain the issue and problem solve from that discipline perspective and then have the students come together to integrate with what the other student has learned.
 
 ## Meeting Notes
+- put yourself in situations in where you are the novice (to be better at empathizing)
+- national prison re-entry simulation
+- distance education (learning how to teach online), learn how to be an online student
+- try to get a similar experience that the student will get
+- going through the process of learning with the students (when you are a novice yourself)
+- having different professors switch out and learning the instructors' different styles can be difficult for the students
+- when is it best to do interdisciplinary course?
+    - at beginning
+        - engage students with topics that otherwise wouldn't have been engaging for them (math + econ)
+        - difficult to do (lots of cognitive load)
+    - near end (once the core concepts are established)
+        - leaning towards this option (matches perry's learning)
+    - depends on the purpose of the class?
+    - what is the goal, what is the level you want students to be at?
+        - comes back to [bloom's taxonomy](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy) to assess where students are and where you want them to be
+- [Big Ideas Courses](https://teach.its.uiowa.edu/initiatives/big-ideas-courses) (uiowa)
+    - not so much learning concepts, but getting the students interested in the subject areas
+    - not great for students that know what they want (and don't have the financial resources to stay in school)
 
 
 [1]: https://www.chronicle.com/article/Teaching-What-You-Dont-Know/135180
